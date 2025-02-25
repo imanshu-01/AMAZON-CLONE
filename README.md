@@ -37,9 +37,9 @@ This project is licensed under the MIT License.
 
 # Contact
 
-- Your Name
-- Your Email
-- Your LinkedIn Profile (optional)
+- Himanshu Patle
+- dearhimanshu3@gmail.com
+- https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # Screenshot
 
